@@ -1,0 +1,7 @@
+G<?php
+
+
+class Post
+{
+
+}
